@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.ReadLine();
             Console.ReadLine(jag gillar pizza);
+            Console.ReadLine();
         }
     }
 }
